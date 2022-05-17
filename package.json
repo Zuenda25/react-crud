@@ -23,6 +23,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "start:server": "json-server --watch ./server/db.json",
     "start": "SET PORT=3200 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
