@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start:server`
 
 Runs the local JSON server.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser and see the complete API lists.
+Open [http://localhost:3000/products](http://localhost:3000/products) to view it in your browser and see the complete API lists.
 
 ### `npm start`
 
